@@ -14,6 +14,7 @@ const ThemeImage = (props: Props) => {
     <>
       <Image {...rest} src={srcLight} className="imgLight" />
       <Image {...rest} src={srcDark} className="imgDark" />
+      http://192.168.1.123:3000/
     </>
   );
 };
